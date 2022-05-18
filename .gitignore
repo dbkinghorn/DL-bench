@@ -1,7 +1,9 @@
 # my excludes
+assets/
 no-git/
 tmp/
 testing/
+containers/
 pkgs/
 envs/
 info/
